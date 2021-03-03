@@ -1,0 +1,73 @@
+﻿  
+
+
+#um img {
+    margin-left:200px;
+    width:800px;
+    height:100px;
+    
+}
+
+#dois h4 {
+    margin-left: 200px;
+    position: absolute;
+    top: 140px;
+}
+
+#tres h4 {
+    margin-left: 200px;
+    position: absolute;
+    top: 200px;
+}
+
+#quatro img {
+    margin-left:410px;
+    width: 590px;
+    height: 400px;
+    position: absolute;
+    top: 120px;
+    left: 10px;
+}
+
+#cinco img {
+    margin-left: 200px;
+    width: 800px;
+    height: 100px;
+    position: absolute;
+    top: 530px;
+}
+
+#seis h4 {
+    margin-left: 200px;
+    position: absolute;
+    top: 260px;
+}
+
+#zero img {
+    margin-left: 430px;
+    width: 570px;
+    height: 400px;
+    position: absolute;
+    top: 120px;
+}
+
+#sete h4 {
+    margin-left: 200px;
+    position: absolute;
+    top: 320px;
+}
+
+#oito img{
+    margin-left: 415px;
+    width: 580px;
+    height: 400px;
+    border: solid 1px;
+    position:absolute;
+    top:120px;
+}
+
+#nove  {
+    margin-left: 200px;
+    position: absolute;
+    top: 260px;
+}

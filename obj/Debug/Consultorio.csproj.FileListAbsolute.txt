@@ -1,0 +1,18 @@
+C:\Users\Elizeu\Desktop\Consultorio\Consultorio\Consultorio\bin\Consultorio.dll
+C:\Users\Elizeu\Desktop\Consultorio\Consultorio\Consultorio\bin\Consultorio.pdb
+C:\Users\Elizeu\Desktop\Consultorio\Consultorio\Consultorio\obj\Debug\Consultorio.csprojResolveAssemblyReference.cache
+C:\Users\Elizeu\Desktop\Consultorio\Consultorio\Consultorio\obj\Debug\Consultorio.dll
+C:\Users\Elizeu\Desktop\Consultorio\Consultorio\Consultorio\obj\Debug\Consultorio.pdb
+C:\Users\elize\Desktop\Logica\Consultorio\Consultorio\Consultorio\bin\Consultorio.dll.config
+C:\Users\elize\Desktop\Logica\Consultorio\Consultorio\Consultorio\bin\Consultorio.dll
+C:\Users\elize\Desktop\Logica\Consultorio\Consultorio\Consultorio\bin\Consultorio.pdb
+C:\Users\elize\Desktop\Logica\Consultorio\Consultorio\Consultorio\obj\Debug\Consultorio.csprojResolveAssemblyReference.cache
+C:\Users\elize\Desktop\Logica\Consultorio\Consultorio\Consultorio\obj\Debug\Consultorio.dll
+C:\Users\elize\Desktop\Logica\Consultorio\Consultorio\Consultorio\obj\Debug\Consultorio.pdb
+C:\Users\elize\OneDrive\Área de Trabalho\Logica\Consultorio\Consultorio\Consultorio\bin\Consultorio.dll.config
+C:\Users\elize\OneDrive\Área de Trabalho\Logica\Consultorio\Consultorio\Consultorio\bin\Consultorio.dll
+C:\Users\elize\OneDrive\Área de Trabalho\Logica\Consultorio\Consultorio\Consultorio\bin\Consultorio.pdb
+C:\Users\elize\OneDrive\Área de Trabalho\Logica\Consultorio\Consultorio\Consultorio\obj\Debug\Consultorio.csprojAssemblyReference.cache
+C:\Users\elize\OneDrive\Área de Trabalho\Logica\Consultorio\Consultorio\Consultorio\obj\Debug\Consultorio.csproj.CoreCompileInputs.cache
+C:\Users\elize\OneDrive\Área de Trabalho\Logica\Consultorio\Consultorio\Consultorio\obj\Debug\Consultorio.dll
+C:\Users\elize\OneDrive\Área de Trabalho\Logica\Consultorio\Consultorio\Consultorio\obj\Debug\Consultorio.pdb
